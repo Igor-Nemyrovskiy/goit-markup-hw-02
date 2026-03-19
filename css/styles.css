@@ -41,7 +41,7 @@ ol {
   color: #404bbf;
 }
 
-.header-nav-item {
+.header-nav-item a {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -54,7 +54,7 @@ ol {
   color: #404bbf;
 }
 
-.header-address-list {
+.header-address-list a {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -81,7 +81,7 @@ ol {
 }
 
 .hero-button {
-  background-color: #404bbf;
+  background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -91,7 +91,7 @@ ol {
 
 .hero-button:hover,
 .hero-button:focus {
-  background-color: #4d5ae5;
+  background-color: #404bbf;
 }
 
 .features-subtitle {
@@ -123,7 +123,7 @@ ol {
   color: #2e2f42;
 }
 
-.team-list {
+.team-item {
   background-color: #ffffff;
 }
 
